@@ -10,7 +10,7 @@ const About: React.FC = () => {
           <div className="lg:w-1/2">
             <div className="relative">
               <img 
-                src="public/assets/rolos.jpeg" 
+                src="/assets/rolos.jpeg" 
                 alt="Processo Industrial" 
                 className="rounded-2xl shadow-2xl"
               />
