@@ -41,4 +41,4 @@ export const PRODUCTS: Product[] = [
   }
 ];
 
-export const HERO_IMAGE = "/assets/capa.png";
+export const HERO_IMAGE = "/assets/capa.webp" alt="Capa";
